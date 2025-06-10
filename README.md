@@ -16,6 +16,8 @@ This project explores the use of **CycleGAN**, a deep learning framework, for **
 - 🤖 **CycleGAN** for unpaired EEG spectrogram denoising
 - 📈 Improved signal quality validated by SNR, SSIM & classification results
 
+> 💡 The CycleGAN model and training code used in this project are adapted from open-source implementations available on GitHub. Only minimal tweaks are needed to make them compatible with EEG spectrogram datasets.This is the cycleGAN code i used -https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix (Thanks for this Full credit to this code).
+
 ## ⚙️ Tech Stack
 
 - Python, NumPy, Pandas, SciPy, Matplotlib
@@ -31,11 +33,10 @@ This project explores the use of **CycleGAN**, a deep learning framework, for **
 
 ## 👨‍💻 Contributors
 
-- Abhijith S
-- Akshaya M K
-- Amal M
-- Fidaan Hussain P
-
+- Abhijith S  
+- Akshaya M K  
+- Amal M 
+- Fidaan Hussain P  
 ---
 
 > For academic purposes only. All datasets and tools used are properly cited in the full report.
